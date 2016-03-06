@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[O Holding ]]></title>
         <description><![CDATA[O Holding ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/o-holding/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 07:21:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 07:21:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/o-holding/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Us ]]></title>
+            <description><![CDATA[<article><h1>About Us </h1><p>O Holding was established to act as a platform for multitude of activities and enterprises that share the same ethos: to cultivate and develop the creative scene in Saudi Arabia and the region as a whole.  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e19caafe64102610ca1a2b2ea8dde82ffa26260.jpg"></article>]]></description>
+            <link>https://thegrid.ai/o-holding/about-us/index.html</link>
+            <guid isPermaLink="false">38371a7f-0771-412d-bf1b-7d0c090bf7ff</guid>
+            <pubDate>Sun, 06 Mar 2016 07:21:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Oasis Magazine]]></title>
             <description><![CDATA[<article><h1>Oasis Magazine</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/406cca6a91289c244e58c38d5742daa6ba48fa8b.jpg"></article>]]></description>
-            <link>undefinedoasis-magazine/index.html</link>
+            <link>https://thegrid.ai/o-holding/oasis-magazine/index.html</link>
             <guid isPermaLink="false">6f737ebb-d991-4842-ab78-2f6778bb759f</guid>
             <pubDate>Sun, 06 Mar 2016 07:21:04 GMT</pubDate>
         </item>
